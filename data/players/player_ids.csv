@@ -1,0 +1,825 @@
+"","first_name","last_name","given_name","name_suffix","nick_name","birth_year","mlb_played_first","mlbam_id","retrosheet_id","bbref_id","fangraphs_id"
+"1","Dillon","Peterson","Dillon","","",NA,NA,NA,"","",NA
+"2","Dillon","Peters","Dillon James","","",1992,2017,596071,"peted001","peterdi01",18790
+"3","Joel","Payamps","Joel Elias","","",1994,2019,606303,"payaj001","payamjo01",14332
+"4","Drew","Strotman","Andrew Gregory","","",1996,NA,675977,"","",NA
+"5","Joe","Ryan","Joe","","",NA,NA,NA,"","",NA
+"6","Joey","Ryan","Joseph Patrick","","",2001,NA,802487,"","",NA
+"7","Joe","Ryan","Joe","","",NA,NA,NA,"","",NA
+"8","Joe","Anderson-Ryan","Joe","","",NA,NA,NA,"","",NA
+"9","Joe","Ryan","Joseph Cloyd","","",1932,NA,NA,"","",NA
+"10","Joe","Ryan","Joseph Philip","","",1996,2021,657746,"ryanj002","ryanjo04",21390
+"11","Joe","Ryan","Joseph D.","","",1983,NA,458179,"","",NA
+"12","Calvin","Faucher","Calvin Louis","","",1995,2022,676534,"faucc001","fauchca01",20116
+"13","Rich","Hills","Richard Patrick","","",1973,NA,438677,"","",NA
+"14","Richard","Hill","Richard S.","","",1944,NA,NA,"","",NA
+"15","Richard","Hiller","Richard","","",NA,NA,NA,"","",NA
+"16","Rich","Hill","Richard Joseph","","",1980,2005,448179,"hillr001","hillri01",4806
+"17","Richard","Hille","Richard Joseph","","",1956,NA,NA,"","",NA
+"18","Rich","Hill","Richard Bradley","","",1962,NA,685357,"","",NA
+"19","Tommy","Hunter","Raymond Thomas","","",1986,2008,488984,"huntt002","hunteto02",1157
+"20","Clay","Holmes","Clayton Walter","","",1993,2018,605280,"holmc001","holmecl01",13649
+"21","Michell","Miliano","Michell Antonio","","",1999,NA,672353,"","",NA
+"22","Andrew","Chafin","Andrew Gregory","","",1990,2014,605177,"chafa001","chafian01",12988
+"23","Daniel","Palencia","Daniel Jesús","","",2000,2023,694037,"paled001","palenda01",27914
+"24","Joe","Smith","Joe","","",1996,NA,NA,"","",NA
+"25","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"26","Joe","Smith","Salvatore Joseph","","",1893,1913,122457,"smitj111","smithjo03",1012166
+"27","Joey","Smith","Joey","","",NA,NA,NA,"","",NA
+"28","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"29","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"30","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"31","Joey","Smith","Joey","","",NA,NA,NA,"","",NA
+"32","Joey","Smith","Joey","","",NA,NA,NA,"","",NA
+"33","Joe","Smith","Joe","","",NA,NA,817181,"","",NA
+"34","Joel","Smith","Joel","","",NA,NA,NA,"","",NA
+"35","Joe","Smith","Joe Birl","","",NA,NA,NA,"","",NA
+"36","Joe","Smith","Joseph Dwayne","","",1999,NA,690660,"","",NA
+"37","Joe","Smith","Joseph Michael","","",1984,2007,501925,"smitj002","smithjo05",3281
+"38","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"39","Joe","Smith","Joseph","","",NA,NA,NA,"","",NA
+"40","Joe","Smith","Josephus Daniels","","",1926,NA,NA,"","",NA
+"41","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"42","Joe","Smith","Joseph Easterly","","",NA,NA,NA,"","",NA
+"43","Joe","Smith","Joseph W.","","",1978,NA,464232,"","",NA
+"44","Joey","Smith","Joey","","",NA,NA,NA,"","",NA
+"45","Joel","Smith","Joel","","",1966,NA,533266,"","",NA
+"46","Joel","Smith","Joel A.","","",1968,NA,436626,"","",NA
+"47","Joe","Smith","Joseph Cecil","","",1921,NA,NA,"","",NA
+"48","Joe","Smith","Joe Kyle","","",1969,NA,458851,"","",NA
+"49","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"50","Joe","Smith","Joe","","",NA,NA,NA,"","",NA
+"51","Joey","Smithers","Joey Andrew","","",1997,NA,689568,"","",NA
+"52","Joel","Smith","Joel M.","","",1963,NA,NA,"","",NA
+"53","Joe","Smith","Joseph Howard","","Red",1874,NA,NA,"","",NA
+"54","Kendall","Graveman","Kendall Chase","","",1990,2014,608665,"gravk001","graveke01",15514
+"55","Rafael","Montero","Rafael","","",1990,2014,606160,"montr004","montera01",12760
+"56","Austin","Pruitt","Austin Daniel","","",1989,2017,643493,"pruia001","pruitau01",15290
+"57","Mychal","Givens","Mychal Antonio","","",1990,2015,571710,"givem001","givenmy01",10430
+"58","Casey","Williamson","Casey Matthew","","",1976,NA,449833,"","",NA
+"59","Case","Williams","Case","","",NA,NA,NA,"","",NA
+"60","Casey","Williams","Casey","","",NA,NA,NA,"","",NA
+"61","Case","Williams","Case Lawrence","","",2002,NA,695406,"","",NA
+"62","Casey","Williams","Casey","","",NA,NA,NA,"","",NA
+"63","Noah","Davis","Noah","","",NA,NA,NA,"","",NA
+"64","Noah","Davis","Noah","","",NA,NA,NA,"","",NA
+"65","Noah","Davison","Noah","","",NA,NA,NA,"","",NA
+"66","Noah","Davis","Noah","","",NA,NA,NA,"","",NA
+"67","Noah","Davis","Noah","","",NA,NA,NA,"","",NA
+"68","Noah","Davis","Noah","","",NA,NA,NA,"","",NA
+"69","Noah","Davis","Noah D.","","",1997,2022,663562,"davin001","davisno01",25862
+"70","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"71","Tyler","Anderson","Tyler","","",1988,NA,599676,"","",NA
+"72","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"73","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"74","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"75","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"76","Tyler","Anderson","Tyler John","","",1989,2016,542881,"andet002","anderty01",12880
+"77","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"78","Tyler","Anderson","Tyler","","",1994,NA,NA,"","",NA
+"79","Tyler","Anderson","Tyler","","",1995,NA,NA,"","",NA
+"80","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"81","Tyler","Anderson","Tyler","","",1993,NA,NA,"","",NA
+"82","Tyler","Anderson","Tyler","","",NA,NA,NA,"","",NA
+"83","Joaquin","Tejada","Joaquin Eduardo","","",2003,NA,692047,"","",NA
+"84","Joaquin","Tejada","Joaquin Munoz","","",1968,NA,581488,"","",NA
+"85","Justin","Wilson","Justin Lee","","",1996,NA,679655,"","",NA
+"86","Justin","Wilson","Justin L.","","",1982,NA,447762,"","",NA
+"87","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"88","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"89","Justin","Wilson","Justin","","",1986,NA,NA,"","",NA
+"90","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"91","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"92","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"93","Justin","Wilson","Justin James","","",1987,2012,458677,"wilsj004","wilsoju10",4301
+"94","Justin","Wilson","Justin","","",NA,NA,NA,"","",NA
+"95","Luis","Cessa","Luis Enrique","","",1992,2016,570666,"cessl001","cessalu01",13345
+"96","Ryan","Tepera","Dennis Ryan","","",1987,2015,572193,"teper001","teperry01",10291
+"97","Bailey","Horn","Bailey Christian Tant","","",1998,2024,690544,"hornb002","hornba01",NA
+"98","Diego","Castillo","Diego Alejandro","","",1997,2022,660636,"castd004","castidi02",19906
+"99","Diego","Castillo","Diego","","",NA,NA,NA,"","",NA
+"100","Diego","Castillo","Diego","","",1994,2018,650895,"castd002","castidi01",17496
+"101","Brad","Hand","Bradley Richard","","",1990,2011,543272,"handb001","handbr01",9111
+"102","Danny","Duffy","Daniel Richard","","",1988,2011,518633,"duffd001","duffyda01",3542
+"103","Aldo","Ramirez","Aldo","","",2001,NA,680048,"","",NA
+"104","Ashton","Goudeau","Ashton Chase","","",1992,2020,623485,"gouda001","goudeas01",15139
+"105","Glenn","Otto","Glenn David","","",1996,2021,657248,"ottog001","ottogl01",21366
+"106","Konnor","Pilkington","Konnor Chase","","",1997,2022,663455,"pilkk001","pilkiko01",21453
+"107","Max","Scherzer","Maxwell Martin","","",1984,2008,453286,"schem001","scherma01",3137
+"108","Josiah","Gray","Josiah E.","","",1997,2021,680686,"grayj004","grayjo03",24580
+"109","Gerardo","Carrillo","Gerardo","","",1998,NA,672629,"","",NA
+"110","Daniel","Hudson","Daniel W.","","",1977,NA,448745,"","",NA
+"111","Daniel","Hudson","Daniel Claiborne","","",1987,2009,543339,"hudsd001","hudsoda01",7146
+"112","Mason","Thompson","Mason Lane","","",1998,2021,666168,"thomm005","thompma02",21850
+"113","Andrew","Heaney","Andrew Mark","","",1991,2014,571760,"heana001","heanean01",15423
+"114","Janson","Junk","Janson Randall","","",1996,2021,676083,"junkj001","junkja01",23301
+"115","Elvis","Peguero","Elvis Antonio","","",1997,2021,665625,"pegue001","pegueel01",21652
+"116","Richard","Rodriguez","Richard Josues","","",1988,NA,500883,"","",NA
+"117","Richard","Rodriguez","Richard","","",1957,NA,NA,"","",NA
+"118","Richard","Rodriguez","Richard Ernesto","","",1992,NA,600966,"","",NA
+"119","Richard","Rodriguez","Richard","","",1995,NA,NA,"","",NA
+"120","Richard","Rodriguez","Richard Danel","","",2000,NA,687978,"","",NA
+"121","Bryse","Wilson","Bryse Everett","","",1997,2018,669060,"wilsb003","wilsobr02",19990
+"122","Ricky","DeVito","Fredrick Anthony","","",1998,NA,683740,"","",NA
+"123","Simeon","Woods Richardson","Simeon","","",2000,2022,680573,"woods002","woodssi01",24494
+"124","DJ","Johnson","Daniel Stuart","","",1989,2018,597113,"johnd005","johnsdj01",12578
+"125","DJ","Johnson","DJ","","",NA,NA,NA,"","",NA
+"126","Peyton","Battenfield","Peyton Cole","","",1997,2023,685410,"battp001","battepe01",25777
+"127","Tony","Watson","Tony","","",2002,NA,NA,"","",NA
+"128","Tony","Watson","Anthony Michael","","",1985,2011,453265,"watst001","watsoto01",3132
+"129","Sam","Selman","Samuel Ayres","","",1990,2019,572125,"selms001","selmasa01",13397
+"130","Ivan","Armstrong","Ivan Alexander","","",2000,NA,678371,"","",NA
+"131","Jose","Marte","Jose Enrique","","",1983,NA,457484,"","",NA
+"132","Joseph","Marte","Joseph","","",NA,NA,NA,"","",NA
+"133","Josehp","Marte","Josehp","","",2005,NA,824213,"","",NA
+"134","Jose Miguel","Marte","Jose Miguel","","",NA,NA,669776,"","",NA
+"135","Jose","Martes","Jose A.","","",1985,NA,471112,"","",NA
+"136","Jose","Marte","Jose","","",NA,NA,NA,"","",NA
+"137","Braeden","Ogle","Braeden","","",1997,NA,669180,"","",NA
+"138","Daniel","Norris","Daniel David","","",1993,2014,596057,"norrd002","norrida01",13475
+"139","Reese","Olson","William Reese","","",1999,2023,681857,"olsor001","olsonre01",24968
+"140","Hans","Crouse","Hans Michael","","",1998,2021,668968,"crouh001","crousha01",22192
+"141","Ian","Kennedy","Ian","","",2002,NA,800681,"","",NA
+"142","Ian","Kennedy","Ian Patrick","","",1984,2007,453178,"kenni001","kenneia01",6986
+"143","Kyle","Gibson","Kyle","","",NA,NA,NA,"","",NA
+"144","Kyle","Gibson","Kyle","","",NA,NA,NA,"","",NA
+"145","Kyle","Gibson","Kyle Benjamin","","",1987,2013,502043,"gibsk002","gibsoky01",10123
+"146","Kyle","Gibson","Kyle","","",1984,NA,NA,"","",NA
+"147","Spencer","Howard","Spencer Lee","","",1996,2020,675921,"howas003","howarsp01",23252
+"148","Josh","Gessner","Joshua Hugh","","",2000,NA,678622,"","",NA
+"149","Kevin","Gowdy","Kevin R.","","",1997,NA,666151,"","",NA
+"150","Tyler","Burcham","Tyler","","",NA,NA,NA,"","",NA
+"151","Tyler","Burchett","Tyler","","",NA,NA,NA,"","",NA
+"152","Tyler","Burch","Tyler Jordan","","",1997,NA,688889,"","",NA
+"153","Jon","Lester","Jonathan Tyler","","",1984,2006,452657,"lestj001","lestejo01",4930
+"154","Hansel","Robles","Hansel","","",NA,NA,691096,"","",NA
+"155","Hansel","Robles","Hansel Manuel","","",1990,2015,570663,"roblh001","robleha01",11801
+"156","Alex","Scherff","Alexander Brock","","",1998,NA,669085,"","",NA
+"157","Craig","Kimbrel","Craig Michael","","",1988,2010,518886,"kimbc001","kimbrcr01",6655
+"158","Codi","Heuer","Codi Dalton","","",1996,2020,676051,"heuec001","heuerco01",23293
+"159","Richard","Guasch","Richard","","",1998,NA,683014,"","",NA
+"160","Seth","Shuman","Griffin Seth","","",1997,NA,670234,"","",NA
+"161","Anderson","Espinoza","Anderson Jose","","",1998,2022,659262,"espia002","espinan01",18593
+"162","Shawn","Armstrong","Shawn Michael","","",1990,2015,542888,"armss001","armstsh01",12857
+"163","John","Curtiss","John Pickens","","",1993,2017,595928,"curtj003","curtijo02",16128
+"164","Kasey","Kalich","Kasey Ray","","",1998,NA,685008,"","",NA
+"165","Phil","Maton","Phillip Louis","","",1993,2017,664208,"matop002","matonph01",18064
+"166","John","Gant","John Michael","","",1992,2016,607231,"gantj002","gantjo01",13684
+"167","Evan","Sisk","Samuel Evan","","",1997,NA,681895,"","",NA
+"168","Austin","Davis","Austin Jamel","","",1999,NA,686689,"","",NA
+"169","Austin","Davis","Austin","","",NA,NA,NA,"","",NA
+"170","Austin","Davis","Austin","","",NA,NA,NA,"","",NA
+"171","Austin","Davis","Austin Dale","","",1993,NA,607508,"","",NA
+"172","Austin","Davison","Austin","","",2001,NA,NA,"","",NA
+"173","Austin","Davis","Austin","","",NA,1946,NA,"davia102","davisau02",NA
+"174","Austin","Davis","Austin","","",NA,NA,NA,"","",NA
+"175","Austin","Davis","Austin","","",1989,NA,623428,"","",NA
+"176","Austin","Davis","Austin","","",1997,NA,693155,"","",NA
+"177","Austin","Davis","Austin","","",NA,NA,NA,"","",NA
+"178","Austin","Davis","Austin Richard","","",1993,2018,656354,"davia003","davisau01",17117
+"179","Caleb","Kilian","Caleb John","","",1997,2022,668873,"kilic001","kiliaca01",26213
+"180","Trevor","Williams","Trevor","","",NA,NA,NA,"","",NA
+"181","Trevor","Williams","Trevor","","",1994,NA,NA,"","",NA
+"182","Trevor","Williams","Trevor Anthony","","",1992,2016,592866,"willt002","willitr01",16977
+"183","Joakim","Soria","Joakim Agustin","","",1984,2007,465657,"sorij001","soriajo01",6941
+"184","Corey","Oswalt","Corey Edward","","",1993,2018,621261,"oswac001","oswalco01",13677
+"185","Manny","Banuelos","Manuel","","",1991,2015,544365,"banum001","banuema01",5365
+"186","Jesus","Liranzo","Jesus Alberto","","",2001,NA,682690,"","",NA
+"187","Christian","Fernandez","Christian","","",NA,NA,NA,"","",NA
+"188","Christian","Fernandez","Christian De Jesus","","",1999,NA,668595,"","",NA
+"189","Christian","Fernandez","Christian","","",NA,NA,NA,"","",NA
+"190","Andrew","Hoffmann","Andrew Michael","","",2000,NA,694851,"","",NA
+"191","Jonatan","Bernal","Jonatan Axel","","",2002,NA,685763,"","",NA
+"192","Foster","Griffin","Fred Foster","","",1995,2020,656492,"griff001","grifffo01",16432
+"193","Chandler","Champlain","Chandler Jay","","",1999,NA,669441,"","",NA
+"194","Beck","Way","Beck Michael","","",1999,NA,694360,"","",NA
+"195","Phillip","Diehl","Phillip Stewart","","",1994,2019,670426,"diehp001","diehlph01",20030
+"196","Jose","Acuna","Jose Valadez","","",2002,NA,695729,"","",NA
+"197","Jose","Acuna","Jose Luis","","",1981,NA,NA,"","",NA
+"198","JoJo","Romero","Joseph Abel","","",1996,2020,668941,"romej002","romerjo01",19574
+"199","Luis","Castillo","Luis Alberto","","",1989,NA,518088,"","",NA
+"200","Luis","Castillo","Luis Antonio","","",1975,1996,112116,"castl001","castilu01",513
+"201","Luis","Castillo","Luis Eduardo","","",1989,NA,514630,"","",NA
+"202","Luis","Castillo","Luis Fernando","","",1996,NA,642278,"","",NA
+"203","Luis","Castillo","Luis","","",1991,NA,570491,"","",NA
+"204","Luis","Castillo","Luis Enrique","","",1984,NA,471039,"","",NA
+"205","Luis","Castillo","Luis","","",NA,NA,NA,"","",NA
+"206","Luis","Castillo","Luis Felipe","","",1995,2022,622379,"castl004","castilu03",20638
+"207","Luis","Castillo","Luis Enrique","","",2002,NA,683463,"","",NA
+"208","Luis","Castillo","Luis Gabriel","","",2003,NA,699127,"","",NA
+"209","Luis","Castillo","Luis","","",1988,NA,503082,"","",NA
+"210","Luis","Castillo","Luis","","",NA,NA,NA,"","",NA
+"211","Luis","Castillo","Luis","","",NA,NA,NA,"","",NA
+"212","Luis","Castillo","Luis Enrique","","",1993,NA,NA,"","",NA
+"213","Luis","Castillo","Luis Miguel","","",1992,2017,622491,"castl003","castilu02",15689
+"214","Luis","Castillo","Luis","","",1989,NA,541579,"","",NA
+"215","Luis","Castillo","Luis Miguel","","",2001,NA,683619,"","",NA
+"216","Luis","Castillo","Luis Lauro","","",NA,NA,NA,"","",NA
+"217","Luis","Castillo","Luis Daniel","","",2005,NA,806044,"","",NA
+"218","Luis","Castillo","Luis","","",1989,NA,495645,"","",NA
+"219","Luis","Castillo","Luis Raul","","",NA,NA,NA,"","",NA
+"220","Luis","Castillo","Luis Andres","","",1996,NA,674498,"","",NA
+"221","Luis","Castillo","Luis Trinidad","","",1963,NA,450998,"","",NA
+"222","Luis","Castillo","Luis Felipe","","",2002,NA,815135,"","",NA
+"223","Luis","Castillo","Luis","","",NA,NA,NA,"","",NA
+"224","Levi","Stoudt","Levi","","",1997,2023,686651,"stoul001","stoudle01",25650
+"225","Andrew","Moore","Andrew","","",NA,NA,NA,"","",NA
+"226","Andrew","Moore","Andrew","","",NA,NA,NA,"","",NA
+"227","Andrew","Moore","Andrew","","",NA,NA,NA,"","",NA
+"228","Andrew","Moore","Andrew George","","",1994,2017,621058,"moora002","moorean02",17553
+"229","Andrew","Moore","Franklin Andrew","","",1999,NA,681097,"","",NA
+"230","Andrew","Moores","Andrew","","",NA,NA,NA,"","",NA
+"231","Andrew","Moore","Andrew J.","","",NA,NA,NA,"","",NA
+"232","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"233","Chris","Martinez","Chris","","",NA,NA,NA,"","",NA
+"234","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"235","Chris","Martin","Chris Scott","","",1996,NA,690095,"","",NA
+"236","Christopher","Martinez","Christopher","","",NA,NA,NA,"","",NA
+"237","Christopher","Martinez","Christopher","","",NA,NA,NA,"","",NA
+"238","Christopher","Martin","Christopher","","",NA,NA,NA,"","",NA
+"239","Chris","Martinez","Chris","","",1994,NA,NA,"","",NA
+"240","Chris","Martinez","Christopher","","",NA,NA,NA,"","",NA
+"241","Christopher","Martinez","Christopher","","",NA,NA,NA,"","",NA
+"242","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"243","Christian","Martinez","Christian","","",NA,NA,NA,"","",NA
+"244","Christian","Martinez","Christian","","",NA,NA,NA,"","",NA
+"245","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"246","Christian","Martinez","Christian","","",NA,NA,NA,"","",NA
+"247","Christian","Martinez","Christian","","",NA,NA,NA,"","",NA
+"248","Christopher","Martinez","Christopher Antonio","","",1982,NA,446107,"","",NA
+"249","Christian","Davila Martinez","Christian J.","","",NA,NA,NA,"","",NA
+"250","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"251","Christian","Martinek","Christian","","",1995,NA,NA,"","",NA
+"252","Christian","Martin","Christian","","",2003,NA,802353,"","",NA
+"253","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"254","Chris","Martin","Christopher","","",NA,NA,NA,"","",NA
+"255","Chris","Martin","Christopher T.","","",1979,NA,451645,"","",NA
+"256","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"257","Chris","Martin","Christopher J.","","",1968,NA,477114,"","",NA
+"258","Christian","Martin","Christian","","",NA,NA,NA,"","",NA
+"259","Chris","Martin","Christopher Riley","","",1986,2014,455119,"martc007","martich02",11847
+"260","Chris","Martin","Christopher Scott","","",1968,NA,436046,"","",NA
+"261","Chris","Martin","Chris","","",1984,NA,NA,"","",NA
+"262","Chris","Martinez","Christopher","","",NA,NA,NA,"","",NA
+"263","Chris","Martine","Christopher G.","","",1975,NA,442167,"","",NA
+"264","Chris","Martinez","Chris","","",1979,NA,531350,"","",NA
+"265","Chris","Martin","Chris","","",NA,NA,NA,"","",NA
+"266","Christian","Martinez","Christian","","",NA,NA,NA,"","",NA
+"267","Raynel","Espinal","Raynel Joseph","","",1991,2021,642659,"espir001","espinra01",19516
+"268","Jose","Quintana","Jose Guillermo","","",1989,2012,500779,"quinj001","quintjo01",11423
+"269","Jose","Quintana","Jose","","",NA,NA,NA,"","",NA
+"270","Joseph","Quintana","Joseph","","",NA,NA,NA,"","",NA
+"271","Jose","Quintana","Jose Alberto","","",2002,NA,683543,"","",NA
+"272","Chris","Stratton","Christopher Lee","","",1990,2016,608717,"strac001","stratch01",13761
+"273","Chris","Stratton","Chris","","",NA,NA,NA,"","",NA
+"274","Johan","Oviedo","Johan","","",1998,2020,670912,"oviej001","oviedjo01",22487
+"275","Garrett","Cleavinger","Garrett J.","","",1994,2020,664076,"cleag001","cleavga01",17897
+"276","Josh","Hader","Josh Ronald","","",1994,2017,623352,"hadej001","haderjo01",14212
+"277","Taylor","Rogers","Taylor Allen","","",1990,2016,573124,"roget001","rogerta01",13449
+"278","Taylor","Rogers","Steven Taylor","","",1987,NA,572091,"","",NA
+"279","Dinelson","Lamet","Dinelson","","",1992,2017,659275,"lamed001","lametdi01",17186
+"280","Robert","Gasser","Robert Riordan","","",1999,2024,688107,"gassr001","gassero01",NA
+"281","Scott","Effross","Scott Benjamin-Morton","","",1993,2021,664123,"effrs001","effrosc01",18384
+"282","Hayden","Wesneski","Hayden Gregory","","",1997,2022,669713,"wesnh001","wesneha01",27581
+"283","Luke","Weaver","Luke","","",NA,NA,NA,"","",NA
+"284","Luke","Weaver","Luke","","",NA,NA,NA,"","",NA
+"285","Luke","Weaver","Luke Allen","","",1993,2016,596133,"weavl001","weavelu01",16918
+"286","Luke","Weaver","Luke","","",NA,NA,NA,"","",NA
+"287","Luke","Weaver","Luke","","",NA,NA,NA,"","",NA
+"288","Anthony","Misiewicz","Anthony","","",1994,2020,664948,"misia001","misiean01",18152
+"289","Frankie","Montas","Francelis","","",1993,2015,593423,"montf001","montafr02",14309
+"290","Lou","Trivino","Lou Albert","","",1991,2018,642152,"trivl001","trivilo01",15043
+"291","Ken","Waldichuk","Kenneth Dieter","","",1998,2022,686610,"waldk003","waldike01",27681
+"292","JP","Sears","John Patrick","","",1996,2022,676664,"searj001","searsjp01",23429
+"293","Luis","Medina","Luis Fernando","","",1995,NA,653414,"","",NA
+"294","Luis","Medina","Luis David","","",2003,NA,691189,"","",NA
+"295","Luis","Medina","Luis","","",1977,NA,NA,"","",NA
+"296","Luis","Medina","Luis Main","","",1963,1988,118901,"medil001","medinlu01",1008715
+"297","Luis","Medina","Luis","","",NA,NA,NA,"","",NA
+"298","Luis","Medina","Luis","","",NA,NA,NA,"","",NA
+"299","Luis","Medina","Luis","","",1979,NA,472205,"","",NA
+"300","Luis","Medina","Luis Enrique","","",1995,NA,NA,"","",NA
+"301","Luis","Medina","Luis Angel","","",1999,2023,665622,"medil002","medinlu02",21649
+"302","Luis","Medina","Luis Enrique","","",1995,NA,667751,"","",NA
+"303","Luis","Medina","Luis Alberto","","",1998,NA,803165,"","",NA
+"304","Jake","Diekman","Jacob Tanner","","",1987,2012,518617,"diekj001","diekmja01",5003
+"305","Trevor","Rosenthal","Trevor Jordan","","",1990,2012,572096,"roset001","rosentr01",10745
+"306","Jeremy","Walker","Jeremy Price","","",1995,2019,668683,"walkj002","walkeje02",19981
+"307","Jeremy","Walker","Jeremy","","",1979,NA,NA,"","",NA
+"308","Carlos","Guarate","Carlos Antonio","","",2001,NA,678672,"","",NA
+"309","Mitch","White","Mitchell John","","",1999,NA,813266,"","",NA
+"310","Mitch","White","Mitchell Harrison","","",1994,2020,669952,"whitm004","whitemi03",19225
+"311","Nick","Frasso","Nicholas Paul","","",1998,NA,693308,"","",NA
+"312","Moises","Brito","Moises Ronaldo","","",2002,NA,804975,"","",NA
+"313","Thomas","Szapucki","Thomas Mathew","","",1996,2021,663378,"szapt001","szaputh01",21065
+"314","Carson","Seymour","Carson James","","",1998,NA,693313,"","",NA
+"315","Nick","Zwack","Nicholas Michael","","",1998,NA,686873,"","",NA
+"316","Michael","Fulmer","Michael Joseph","","",1993,2016,605242,"fulmm001","fulmemi01",13218
+"317","Sawyer","Gipson-Long","Alec Sawyer","","",1997,2023,687830,"gipss001","gipsosa01",26048
+"318","Mychal","Givens","Mychal Antonio","","",1990,2015,571710,"givem001","givenmy01",10430
+"319","Saul","Gonzalez","Saul","","",NA,NA,NA,"","",NA
+"320","Saul","Gonzalez","Saul","","",NA,NA,NA,"","",NA
+"321","Saul","Gonzalez","Saul Gabriel","","",1988,NA,516733,"","",NA
+"322","Saul","Gonzalez","Saul","","",1985,NA,NA,"","",NA
+"323","Jorge","Lopez","Jorge Luis","","",1981,NA,465473,"","",NA
+"324","Jorge","Lopez","Jorge","","",NA,NA,NA,"","",NA
+"325","Jorge","Lopez","Jorge","","",NA,NA,NA,"","",NA
+"326","Jorge","Lopez","Jorge Ivan","","",1991,NA,554373,"","",NA
+"327","Jorge","Lopez","Jorge Luis","","",1928,NA,NA,"","",NA
+"328","Jorge","Lopez","Jorge","","",NA,NA,NA,"","",NA
+"329","Jorge","Lopez","Jorge","","",1990,NA,542526,"","",NA
+"330","Jorge","Lopez","Jorge","","",NA,NA,NA,"","",NA
+"331","Jorge","Lopez","Jorge Orlando","","",1935,NA,NA,"","",NA
+"332","Yennier","Cano","Yennier","","",1994,2022,666974,"canoy001","canoye01",25911
+"333","Cade","Povich","Cade Jackie","","",2000,2024,700249,"povic001","povicca01",NA
+"334","Juan","Rojas","Juan Adolfo","","",1983,NA,451642,"","",NA
+"335","Juan","Rojas","Juan Jose","","",2001,NA,679564,"","",NA
+"336","Juan","Rojas","Juan Antonio","","",1986,NA,NA,"","",NA
+"337","Juan","Rojas","Juan Diego","","",2004,NA,700357,"","",NA
+"338","Juan","Nunez","Juan De Dios","","",1996,NA,650994,"","",NA
+"339","Juan","Nunez","Juan Gabriel","","",1987,NA,501513,"","",NA
+"340","Juan","Nunez","Juan","","",NA,NA,NA,"","",NA
+"341","Juan","Nunez","Juan Francisco","","",2003,NA,805400,"","",NA
+"342","Juan","Nunez","Juan Antonio","","",2000,NA,693725,"","",NA
+"343","Juan","Nunez","Jose Juan","","",1974,NA,NA,"","",NA
+"344","Juan","Nunez","Juan D.","","",1964,NA,NA,"","",NA
+"345","Juan","Nunez","Juan Carlos","","",1986,NA,451146,"","",NA
+"346","Juan","Nunez","Juan Dedios","","",1977,NA,470027,"","",NA
+"347","Juan","Nunez","Juan","","",NA,NA,NA,"","",NA
+"348","Zach","Pop","Zachery M.","","",1996,2021,647315,"pop-z001","popza01",20185
+"349","Zach","Popovich","Zach","","",NA,NA,NA,"","",NA
+"350","Anthony","Bass","Anthony Edward","","",1987,2011,542914,"bassa001","bassan01",7982
+"351","Anthony","Bass","Anthony D.","","",1980,NA,453757,"","",NA
+"352","Anthony","Bassett","Anthony","","",2002,NA,NA,"","",NA
+"353","Matthew","Boyd","Matthew","","",2004,NA,NA,"","",NA
+"354","Matthew","Boyde","Matthew","","",NA,NA,NA,"","",NA
+"355","Michael","Stryffeler","Michael","","",1996,NA,691068,"","",NA
+"356","Kris","Anglin","Kristopher Robert Luther","","",2001,NA,695258,"","",NA
+"357","Ian","Hamilton","Ian Francis","","",1995,2018,641656,"hamii001","hamilia01",19261
+"358","David","Robertson","David Alan","","",1985,2008,502085,"robed002","roberda08",8241
+"359","Benjamin","Brown","Benjamin","","",1954,NA,NA,"","",NA
+"360","Ben","Browning","Ben","","",NA,NA,NA,"","",NA
+"361","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"362","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"363","Ben","Brownlow","John Benjeman","","",1886,NA,NA,"","",NA
+"364","Benny","Brown","Benjamin","","",NA,1932,NA,"browb108","brownbe01",NA
+"365","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"366","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"367","Ben","Brown","Benjamin Oliver","","",1936,NA,NA,"","",NA
+"368","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"369","Ben","Brown","Ben","","",2000,NA,NA,"","",NA
+"370","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"371","Benjamin","Brown","Benjamin","","",NA,NA,NA,"","",NA
+"372","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"373","Ben","Brown","Bennie Russell","","",1906,NA,NA,"","",NA
+"374","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"375","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"376","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"377","Ben","Brown","Benjamin","","",1999,2024,676962,"browb006","brownbe02",23590
+"378","Ben","Brown","Ben","","",NA,NA,NA,"","",NA
+"379","Ben","Browning","Ben","","",NA,NA,NA,"","",NA
+"380","Noah","Syndergaard","Noah Seth","","",1992,2015,592789,"syndn001","syndeno01",11762
+"381","Tyler","Mahle","Tyler Fermin","","",1994,2017,641816,"mahlt001","mahlety01",16358
+"382","Steve","Hajjar","Steven George","","",2000,NA,680727,"","",NA
+"383","Matt","Busher","Matt","","",NA,NA,NA,"","",NA
+"384","Matt","Bushman","Matt","","",NA,NA,NA,"","",NA
+"385","Matt","Bush","Matthew Brian","","",1986,2016,456713,"bushm001","bushma01",1246
+"386","Matt","Bush","Matt","","",NA,NA,NA,"","",NA
+"387","Antoine","Kelly","Antoine Jermaine","","",1999,NA,681520,"","",NA
+"388","MacKenzie","Gore","MacKenzie Evan","","",1999,2022,669022,"gorem001","gorema01",22201
+"389","Jarlin","Susana","Jarlin Joel","","",2004,NA,703186,"","",NA
+"390","Clayton","Beeter","Clayton Howard","","",1998,2024,690925,"beetc001","beetecl01",27494
+"391","Jeremy","Beasley","Jeremy Lonnie","","",1995,2020,676886,"beasj001","beaslje01",20205
+"392","William","Smith","William G.","","",NA,NA,NA,"","",NA
+"393","William","Smith","William C.","","Lefty",NA,NA,NA,"","",NA
+"394","William","Smith","William E.","","",NA,NA,NA,"","",NA
+"395","William","Smith","William","","",NA,NA,NA,"","",NA
+"396","Will Allen","Smith","Will Allen","","",NA,NA,NA,"","",NA
+"397","Willis","Smith","Willis L.","","",NA,NA,NA,"","",NA
+"398","Will","Smith","Wilbur","","Snake",1952,NA,NA,"","",NA
+"399","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"400","William","Smith","William Jackson","Jr.","",1922,NA,NA,"","",NA
+"401","William","Smith","William M.","","",1926,NA,NA,"","",NA
+"402","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"403","Willie","Smith","Willie Lee","","",NA,NA,NA,"","",NA
+"404","William","Smith","William D.","","",1960,NA,NA,"","",NA
+"405","William","Smith","William","","",NA,NA,NA,"","",NA
+"406","Will","Smith","William Michael","","",1989,2012,519293,"smitw002","smithwi04",8048
+"407","William","Smith","William","","",NA,NA,NA,"","",NA
+"408","William","Smith","William","","",NA,NA,NA,"","",NA
+"409","Willia","Smith","Willia","","",NA,NA,NA,"","",NA
+"410","William","Smith","William A.","","",1921,NA,NA,"","",NA
+"411","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"412","William","Smith","William C.","","",1924,NA,NA,"","",NA
+"413","William","Smith","William","","",NA,NA,NA,"","",NA
+"414","William","Smith","William H.","","",NA,NA,NA,"","",NA
+"415","William","Smith","William","","",NA,NA,NA,"","",NA
+"416","William","Smith","William","","",NA,NA,NA,"","",NA
+"417","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"418","William","DeSmith","William","","",NA,NA,NA,"","",NA
+"419","William","Smith","William V.","","",1940,NA,NA,"","",NA
+"420","Will","Smith","Will","","",NA,NA,684624,"","",NA
+"421","Willie","Smith","Willie","","",NA,1938,817160,"smitw105","smithwi06",NA
+"422","Willie","Smith","Willie Everett","","",1967,1994,122472,"smitw001","smithwi03",1012217
+"423","William","Smith","William","","",NA,NA,NA,"","",NA
+"424","William","Smith","William","","",1921,NA,NA,"","",NA
+"425","William","Smith","William","","",NA,NA,817159,"","",NA
+"426","William","Smith","William","","",NA,NA,NA,"","",NA
+"427","William","Smith","William","","",NA,NA,NA,"","",NA
+"428","William","Smith","William E.","","",1947,NA,NA,"","",NA
+"429","William","Smith","William","","",NA,NA,NA,"","",NA
+"430","Will","Smithey","Will","","",NA,NA,NA,"","",NA
+"431","Will","Smith","William Ashley","","",2001,NA,687563,"","",NA
+"432","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"433","William","Smith","William D.","","",1952,NA,NA,"","",NA
+"434","Will","Smith","Will","","",1998,NA,NA,"","",NA
+"435","William","Smith","William","","",NA,NA,NA,"","",NA
+"436","William","Smith","William","","",NA,NA,NA,"","",NA
+"437","William","Smith","William G.","","",NA,NA,NA,"","",NA
+"438","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"439","William","Smith","William","","",NA,NA,NA,"","",NA
+"440","William","Smith","William T.","","",1916,NA,NA,"","",NA
+"441","Willie","Smith","Willie D.","","Buddy",1915,1948,817158,"smitw106","smithwi07",NA
+"442","William","Smith","William Stanley","","Lefty",1889,NA,NA,"","",NA
+"443","William","Smith","William","","",NA,NA,NA,"","",NA
+"444","William","Smith","William F.","","",NA,NA,NA,"","",NA
+"445","William","Smith","William","","",NA,NA,NA,"","",NA
+"446","William","Smith","William","","",NA,NA,NA,"","",NA
+"447","Will","Smith","William Dills","","",1995,2019,669257,"smitw003","smithwi05",19197
+"448","William","Smith","William","","",NA,NA,NA,"","",NA
+"449","William","Smith","Ferdinand William","","",1903,NA,NA,"","",NA
+"450","William","Smith","William Artis","","",1914,NA,NA,"","",NA
+"451","William","Smith","William Robert","","",1920,NA,NA,"","",NA
+"452","Will","Smith","Will","","",2002,NA,807500,"","",NA
+"453","William","Smith","William","","",NA,NA,NA,"","",NA
+"454","William","Smith","William F.","","",NA,NA,NA,"","",NA
+"455","Will","Smith","Will","","",NA,NA,NA,"","",NA
+"456","William","Smith","William D.","","",NA,NA,NA,"","",NA
+"457","William","Smith","William R.","","",1954,NA,NA,"","",NA
+"458","Will","Smith","Ivan William","","",1977,NA,445230,"","",NA
+"459","William","Smith","William","","",NA,NA,NA,"","",NA
+"460","William","Smith","William","","",NA,NA,NA,"","",NA
+"461","Will","Smith","William Hyun","","",1981,NA,446920,"","",NA
+"462","William","Smith","William","","",NA,NA,NA,"","",NA
+"463","Willie","Smith","Willie","","",1939,1963,122471,"smitw102","smithwi02",1012216
+"464","William","Smith","William Bain","","",1926,NA,NA,"","",NA
+"465","William","Smith","William Henry","Jr.","",1920,NA,NA,"","",NA
+"466","Jake","Odorizzi","Jacob Todd","","",1990,2012,543606,"odorj001","odorija01",6397
+"467","Jay","Groome","Jason Joseph","","",1998,NA,666130,"","",NA
+"468","Raisel","Iglesias","Raisel","","",1990,2015,628452,"igler001","iglesra01",17130
+"469","Jesse","Chavez","Jesse David","","",1983,2008,445926,"chavj001","chaveje01",5448
+"470","Tucker","Davidson","Joseph Tucker","","",1996,2020,656353,"davit005","davidtu01",19871
+"471","Jordan","Montgomery","Jordan","","",NA,NA,NA,"","",NA
+"472","Jordan","Montgomery","Jordan Blackmon","","",1992,2017,656756,"montj004","montgjo01",16511
+"473","Max","Castillo","Maximo Alberto","","",1999,2022,666721,"castm003","castima03",21956
+"474","Trevor","Gott","Trevor Vaughan","","",1992,2015,641627,"gottt001","gotttr01",15046
+"475","Chris","Flexen","Christopher John","","",1994,2017,623167,"flexc001","flexech01",13896
+"476","Zach","Muckenhirn","Zachary Edward","","",1995,2023,669105,"muckz001","muckeza01",20209
+"477","Shintaro","Fujinami","Shintaro","","",1994,2023,660261,"fujis001","fujinsh01",31839
+"478","Easton","Lucas","Easton James","","",1996,2023,687922,"lucae002","lucasea01",26058
+"479","Génesis","Cabrera","Génesis","","",1996,2019,650893,"cabrg001","cabrege01",17490
+"480","Taylor","Hearn","Taylor Lynn","","",1994,2019,621368,"heart001","hearnta01",18325
+"481","Pierce","Johnson","Pierce William","","",1991,2017,572955,"johnp001","johnspi01",13435
+"482","Victor","Vodnik","Victor Francisco","","",1999,2023,680767,"vodnv001","vodnivi01",24614
+"483","Tanner","Gordon","Tanner Robert","","",1997,2024,685299,"gordt002","gordota01",NA
+"484","Nick","Robertson","Nicholas Parker","","",1998,2023,687798,"roben002","roberni01",26226
+"485","Nick","Robertson","Nick","","",NA,NA,NA,"","",NA
+"486","Nick","Robertson","Nick","","",NA,NA,NA,"","",NA
+"487","Nick","Robertson","Nick","","",NA,NA,NA,"","",NA
+"488","Justin","Hagenman","Justin Michael","","",1996,NA,663795,"","",NA
+"489","Lucas","Giolito","Lucas Frost","","",1994,2016,608337,"gioll001","giolilu01",15474
+"490","Reynaldo","López","Reynaldo Starling","","",1994,2016,625643,"loper003","lopezre01",16400
+"491","Ky","Bush","Kyler Spencer","","",1999,2024,681066,"bushk001","bushky01",NA
+"492","Dylan","Floro","Dylan Lee","","",1990,2016,571670,"flord002","florody01",13394
+"493","Jorge","López","Jorge Yabiel","","",1993,2015,605347,"lopej004","lopezjo02",14527
+"494","Noah","Syndergaard","Noah Seth","","",1992,2015,592789,"syndn001","syndeno01",11762
+"495","Trent","Thornton","Trent Edward","","",1993,2019,663423,"thort002","thorntr01",17948
+"496","Mauricio","Llovera","Mauricio Alejandro","","",1996,2020,661440,"llovm001","llovema01",20080
+"497","Marques","Johnson","Marques Irie","","",2000,NA,688730,"","",NA
+"498","Lance","Lynn","Michael Lance","","",1987,2011,458681,"lynnl001","lynnla01",2520
+"499","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"500","Joe","Kelly","Joseph F.","","",1968,NA,436962,"","",NA
+"501","Joe","Kelly","Joseph Henry","","",1886,1914,116950,"kellj102","kellyjo03",1006804
+"502","Joe","Kelly","Joe","","",NA,NA,560908,"","",NA
+"503","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"504","Joe","Kelly","Joseph William","","",1988,2012,523260,"kellj001","kellyjo05",9761
+"505","Joe","Kelly","Francis Joseph","","",1904,NA,NA,"","",NA
+"506","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"507","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"508","Joe","Kelly","Joe","","",1889,NA,NA,"","",NA
+"509","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"510","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"511","Joe","Kelly","Joe","","",NA,NA,NA,"","",NA
+"512","Joe","Kelly","Joe","","",1997,NA,NA,"","",NA
+"513","Joe","Kelly","Joseph James","","",1900,1926,116951,"kellj101","kellyjo04",1006805
+"514","Nick","Nastrini","Nicholas","","",2000,2024,680897,"nastn001","nastrni01",NA
+"515","Jordan","Leasure","Jordan Davis","","",1998,2024,673929,"leasj001","leasujo01",29950
+"516","David","Robertson","David Alan","","",1985,2008,502085,"robed002","roberda08",8241
+"517","Kendall","Graveman","Kendall Chase","","",1990,2014,608665,"gravk001","graveke01",15514
+"518","Taylor","Hearn","Taylor Lynn","","",1994,2019,621368,"heart001","hearnta01",18325
+"519","Jordan","Hicks","Jordan","","",NA,NA,NA,"","",NA
+"520","Jordan","Hicks","Jordan","","",NA,NA,NA,"","",NA
+"521","Jordan","Hicks","Jordan McKinley","","",1996,2018,663855,"hickj002","hicksjo03",19618
+"522","Adam","Kloffenstein","Adam","","",2000,2024,680572,"klofa001","kloffad01",NA
+"523","Sem","Robberse","Sem","","",2001,NA,691828,"","",NA
+"524","Mason","Albright","Mason Quinn","","",2002,NA,695476,"","",NA
+"525","Jake","Madden","Jake Thomas","","",2001,NA,802409,"","",NA
+"526","Jordan","Montgomery","Jordan","","",NA,NA,NA,"","",NA
+"527","Jordan","Montgomery","Jordan Blackmon","","",1992,2017,656756,"montj004","montgjo01",16511
+"528","Chris","Stratton","Christopher Lee","","",1990,2016,608717,"strac001","stratch01",13761
+"529","Chris","Stratton","Chris","","",NA,NA,NA,"","",NA
+"530","John","King","John A.","","",NA,NA,NA,"","",NA
+"531","John","King","John W.","","",1956,NA,NA,"","",NA
+"532","John","King","John","","",NA,NA,NA,"","",NA
+"533","John","King","John","","",NA,NA,NA,"","",NA
+"534","John","King","John","","",NA,NA,NA,"","",NA
+"535","Johnny","King","Johnny Lee","","",1945,NA,NA,"","",NA
+"536","John","King","John Michael","","",1985,NA,518889,"","",NA
+"537","John","King","John T.","","",1890,NA,NA,"","",NA
+"538","John","King","John Edward","","",1994,2020,667463,"kingj002","kingjo01",22051
+"539","John","King","John William","","",1932,NA,NA,"","",NA
+"540","John","Kingdeski","John","Jr.","",NA,NA,NA,"","",NA
+"541","John","King","John Price","","",NA,NA,NA,"","",NA
+"542","Johnny","King","Johnny H.","","",2006,NA,803516,"","",NA
+"543","John","King","John","","",NA,NA,NA,"","",NA
+"544","John","King","John P.","","",1957,NA,NA,"","",NA
+"545","John","King","John","","",NA,NA,NA,"","",NA
+"546","John","King","John","","",NA,NA,NA,"","",NA
+"547","Johnny","King","Johnny","","",NA,NA,NA,"","",NA
+"548","John","King","John Harold","Sr.","",1907,NA,NA,"","",NA
+"549","Johnny","King","Johnny","","",NA,NA,NA,"","",NA
+"550","John","Kingston","John","","",NA,NA,NA,"","",NA
+"551","Tekoah","Roby","Tekoah Clark","","",2001,NA,694358,"","",NA
+"552","Max","Scherzer","Maxwell Martin","","",1984,2008,453286,"schem001","scherma01",3137
+"553","Paul","Sewald","Paul Stanton","","",1990,2017,623149,"sewap001","sewalpa01",13892
+"554","Aaron","Civale","Aaron James","","",1995,2019,650644,"civaa001","civalaa01",19479
+"555","DJ","Herz","Davidjohn Patrick","","",2001,2024,687792,"herzd001","herzdj01",NA
+"556","Sam","Moll","Samuel John","","",1992,2017,594580,"molls001","mollsa01",14874
+"557","Joe","Boyle","Joseph","","",1995,NA,NA,"","",NA
+"558","Joe","Boyle","Joseph Patrick","","",1999,2023,671212,"boylj001","boylejo01",29608
+"559","Joe","Boyle","Joe","","",NA,NA,NA,"","",NA
+"560","Justin","Jarvis","Justin","","",NA,NA,NA,"","",NA
+"561","Justin","Jarvis","Justin","","",2000,NA,680691,"","",NA
+"562","Chad","Patrick","Chandler Allen","","",1998,NA,694477,"","",NA
+"563","Jake","Eder","Jacob Andrew","","",1998,2024,671109,"ederj001","ederja01",NA
+"564","Phil","Bickford","Phillip Roger","","",1995,2020,641360,"bickp001","bickfph01",18519
+"565","Adam","Kolarek","Adam John","","",1989,2017,592473,"kolaa001","kolarad01",10843
+"566","Evan","McKendry","Evan Daniel","","",1998,NA,679928,"","",NA
+"567","Justin","Bruihl","Justin","","",1997,2021,677865,"bruij001","bruihju01",23779
+"568","Keynan","Middleton","Keynan Anthony","","",1993,2017,641871,"middk001","middlke01",15264
+"569","Juan","Carela","Juan Gabriel","","",1985,NA,NA,"","",NA
+"570","Juan","Carela","Juan Daniel","","",2001,NA,683636,"","",NA
+"571","Tucker","Davidson","Joseph Tucker","","",1996,2020,656353,"davit005","davidtu01",19871
+"572","Ryan","Yarbrough","Ryan Christian","","",1991,2018,642232,"yarbr001","yarbrry01",16502
+"573","Eduard","Bazardo","Eduard Felix","","",1995,2021,660825,"bazae001","bazared01",20997
+"574","Logan","Rinehart","Logan Michael","","",1997,NA,686827,"","",NA
+"575","Justin","Verlander","Justin Brooks","","",1983,2005,434378,"verlj001","verlaju01",8700
+"576","Sean","Reynolds","Sean William","","",1998,2024,669308,"reyns002","reynose01",NA
+"577","Ryan","Weathers","Ryan","","",1999,2021,677960,"weatr001","weathry01",23796
+"578","Bradley","Blalock","Bradley Christopher","","",2000,2024,687134,"blalb001","blalobr01",NA
+"579","Bailey","Falter","Bailey","","",1997,2021,663559,"faltb001","falteba01",20070
+"580","Spencer","Howard","Spencer Lee","","",1996,2020,675921,"howas003","howarsp01",23252
+"581","Luis","Patiño","Luis Fernando","","",1999,2020,672715,"patil001","patinlu01",22815
+"582","Dominic","Leone","Dominic Joseph","","",1991,2014,608678,"leond003","leonedo01",13763
+"583","Rich","Hills","Richard Patrick","","",1973,NA,438677,"","",NA
+"584","Richard","Hill","Richard S.","","",1944,NA,NA,"","",NA
+"585","Richard","Hiller","Richard","","",NA,NA,NA,"","",NA
+"586","Rich","Hill","Richard Joseph","","",1980,2005,448179,"hillr001","hillri01",4806
+"587","Richard","Hille","Richard Joseph","","",1956,NA,NA,"","",NA
+"588","Rich","Hill","Richard Bradley","","",1962,NA,685357,"","",NA
+"589","Jackson","Wolf","Jackson David","","",1999,2023,680232,"wolfj001","wolfja01",29832
+"590","Manuel","Rodríguez","Manuel De Jesus","","",1996,2021,655889,"rodrm001","rodrima01",20794
+"591","Manuel","Rodríguez","Manuel","","",NA,NA,NA,"","",NA
+"592","Manuel","Rodríguez","Manuel","","",1880,NA,817465,"rodrm101","",NA
+"593","Adrian","Sampson","Adrian David","","",1991,2016,592716,"sampa001","sampsad01",13339
+"594","Joshua","Roberson","Joshua","","",NA,NA,NA,"","",NA
+"595","Josh","Roberson","Josh Miller","","",1996,NA,675963,"","",NA
+"596","Michael","Lorenzen","Michael Clifton","","",1992,2015,547179,"lorem002","lorenmi01",14843
+"597","Andrew","Chafin","Andrew Gregory","","",1990,2014,605177,"chafa001","chafian01",12988
+"598","Peter","Strzelecki","Peter Joseph","","",1994,2022,657265,"strzp001","strzepe01",21367
+"599","Scott","Barlow","Scott Alen","","",1992,2018,605130,"barls001","barlosc01",14993
+"600","Henry","Williams","Henry L.","","",1975,NA,466132,"","",NA
+"601","Jake Henry","Williams","Jake Henry","","",2002,NA,NA,"","",NA
+"602","Henry","Williams","Henry","","Flick",1895,1923,NA,"willh104","willihe01",NA
+"603","Henry","Williams","Henry","","",NA,NA,NA,"","",NA
+"604","Henry","Williams","Henry Alexander","","",2001,NA,689275,"","",NA
+"605","Henry","Williams","Henry","","",NA,NA,NA,"","",NA
+"606","Henry","Williams","Henry","","",NA,NA,NA,"","",NA
+"607","Henry","Williamson","Henry Robert","","",1985,NA,457565,"","",NA
+"608","Jesus","Rios","Jesus","","Chito",1963,NA,477547,"","",NA
+"609","Jesus","Rios","Jesus","","",NA,NA,NA,"","",NA
+"610","Jesus","Rios","Jesus Enrique","","",2001,NA,694947,"","",NA
+"611","Brad","Hand","Bradley Richard","","",1990,2011,543272,"handb001","handbr01",9111
+"612","Alec","Barger","Alec Robert","","",1998,NA,681897,"","",NA
+"613","Jack","O'Flaherty","Jack","","",NA,NA,NA,"","",NA
+"614","Jack","Flaherty","Jack","","",NA,NA,NA,"","",NA
+"615","Jack","Flaherty","John","","",1993,NA,NA,"","",NA
+"616","Jack","Flaherty","Jack Rafe","","",1995,2017,656427,"flahj002","flaheja01",17479
+"617","Drew","Rom","Drew Michael","","",1999,2023,680723,"rom-d001","romdr01",24602
+"618","Drew","Romo","Drew Arthur","","",2001,2024,691011,"romod001","romodr01",NA
+"619","Drew","Romesser","Drew","","",NA,NA,NA,"","",NA
+"620","Zack","Showalter","Zachary Bryce","","",2004,NA,701374,"","",NA
+"621","Matt","Svanson","Matthew Patrick","","",1999,NA,694335,"","",NA
+"622","Spencer","Howard","Spencer Lee","","",1996,2020,675921,"howas003","howarsp01",23252
+"623","Phil","Maton","Phillip Louis","","",1993,2017,664208,"matop002","matonph01",18064
+"624","Tyler","Jay","Tyler Ryan","","",1994,2024,664079,"jay-t001","jayty01",NA
+"625","TJ","Shook","Franklin Todd","","",1998,NA,669298,"","",NA
+"626","Seranthony","Domínguez","Seranthony Ambioris","","",1994,2018,622554,"domis001","dominse01",19249
+"627","Yimi","García","Yimi","","",1990,2014,554340,"garcy001","garciyi01",12095
+"628","Zach","Eflin","Zachary Adams","","",1994,2016,621107,"efliz001","eflinza01",13774
+"629","Jackson","Baumeister","Jackson Joseph","","",2002,NA,691765,"","",NA
+"630","Cole","Sulser","Cole Young","","",1990,2019,642121,"sulsc001","sulseco01",15256
+"631","Ryne","Stanek","Ryne Thomas","","",1991,2017,592773,"stanr002","stanery01",15947
+"632","James","Paxton","James Alston","","",1988,2013,572020,"paxtj001","paxtoja01",11828
+"633","Brody","Hopkins","William Brody","","",2002,NA,811315,"","",NA
+"634","Brody","Hopkins","Brody","","",NA,NA,NA,"","",NA
+"635","Gilberto","Batista","Gilberto","","",2005,NA,807625,"","",NA
+"636","Carlos","Estévez","Carlos Samuel","","",1992,2016,608032,"estec001","estevca01",14542
+"637","George","Klassen","George Edward","","",2002,NA,691946,"","",NA
+"638","Nate","Pearson","Nathan Alexander","","",1996,2020,663878,"pearn001","pearsna01",20160
+"639","Nick","Mears","Nicolaus Tanner","","",1996,2020,683232,"mearn001","mearsni01",25376
+"640","Bradley","Blalock","Bradley Christopher","","",2000,2024,687134,"blalb001","blalobr01",NA
+"641","Yujanyer","Herrera","Yujanyer Gabriel","","",2003,NA,692632,"","",NA
+"642","Hunter","Bigge","Hunter Bradford","","",1998,2024,685801,"biggh001","biggehu01",NA
+"643","Tyrus","Johnson","Tyrus Raymond","","",NA,NA,NA,"","",NA
+"644","Tyler","Depreta-Johnson","Tyler David","","",1996,NA,682205,"","",NA
+"645","Tyrese","Johnson","Tyrese","","",2002,NA,683277,"","",NA
+"646","Ty","Johnson","Ty Roman","","",2001,NA,694494,"","",NA
+"647","Tyler","Johnson","Tyler James","","",1981,2005,431164,"johnt002","johnsty01",3404
+"648","Tyler","Johnson","Tyler","","",1996,NA,682127,"","",NA
+"649","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"650","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"651","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"652","Ty","Johnson","Ty","","",1999,NA,684445,"","",NA
+"653","Tyler","Johnson","Tyler Gregory","","",1999,NA,806636,"","",NA
+"654","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"655","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"656","Tyler","Johnson","Tyler","","",2002,NA,802661,"","",NA
+"657","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"658","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"659","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"660","Tyson","Johnson","Tyson","","",NA,NA,NA,"","",NA
+"661","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"662","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"663","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"664","Tyler","Johnson","Tyler","","",1998,NA,804600,"","",NA
+"665","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"666","Ty","Johnson","Ty Andrew","","",2002,NA,822747,"","",NA
+"667","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"668","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"669","Tyler","Johnson","Tyler Lloyd","","",1985,NA,446574,"","",NA
+"670","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"671","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"672","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"673","Tyree","Johnson","Tyree Rashon","","",1996,NA,656593,"","",NA
+"674","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"675","Tyce","Johnson","Tyce","","",NA,NA,NA,"","",NA
+"676","Tyler","Johnson","Tyler","","",1994,NA,NA,"","",NA
+"677","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"678","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"679","Tyler","Johnson","Tyler Anthony","","",1990,NA,608673,"","",NA
+"680","Ty","Johnson","Titus","","",2002,NA,NA,"","",NA
+"681","Tyler","Johnson","Tyler","","",NA,NA,677390,"","",NA
+"682","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"683","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"684","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"685","Tyler","Johnson","Tyler","","",NA,NA,NA,"","",NA
+"686","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"687","Ty","Johnson","Ty Robert","","",1996,NA,687103,"","",NA
+"688","Tyler","Johnson","Tyler","","",1999,NA,NA,"","",NA
+"689","Tyler","Johnson","Tyler Burke","","",1995,NA,656592,"","",NA
+"690","Tyler","Johnson","Tyler","","",1994,NA,NA,"","",NA
+"691","Ty","Johnson","Ty","","",NA,NA,NA,"","",NA
+"692","Jason","Adam","Jason Kendall","","",1991,2018,592094,"adamj002","adamja01",11861
+"693","Jason","Adams","Jason Edwin","","",1973,NA,439697,"","",NA
+"694","Jason","Adams","Jason","","",NA,NA,NA,"","",NA
+"695","Jason","Adamson","Jason M.","","",1976,NA,436162,"","",NA
+"696","Jason","Adams","Jason","","",1985,NA,504832,"","",NA
+"697","Jason","Adams","Jason Randall","","",1971,NA,NA,"","",NA
+"698","Dylan","Lesko","Dylan Joseph","","",2003,NA,702266,"","",NA
+"699","Tyler","Stuart","Tyler","","",NA,NA,NA,"","",NA
+"700","Tyler","Stuart","Tyler Matthew","","",1999,NA,701603,"","",NA
+"701","Tyler","Stuart","Tyler","","",NA,NA,NA,"","",NA
+"702","Tyler","Owens","Tyler","","",NA,NA,NA,"","",NA
+"703","Tyler","Owens","Tyler","","",NA,NA,NA,"","",NA
+"704","Tyler","Owens","Tyler David","","",2001,NA,687074,"","",NA
+"705","Tyler","Owens","Tyler","","",NA,NA,NA,"","",NA
+"706","Tyler","Owensby","Tyler","","",NA,NA,NA,"","",NA
+"707","Michael","Kopech","Michael Talbert","","",1996,2018,656629,"kopem001","kopecmi01",17282
+"708","Michael","Flynn","Michael Ryan","","",1996,NA,663901,"","",NA
+"709","Michael","Flynn","Michael","","",NA,NA,NA,"","",NA
+"710","Michael","Flynn","Michael J.","","",NA,NA,NA,"","",NA
+"711","Michael","Flynn","Michael","","",NA,NA,NA,"","",NA
+"712","Michael","Lorenzen","Michael Clifton","","",1992,2015,547179,"lorem002","lorenmi01",14843
+"713","Walter","Pennington","Walter Carlton","","",1998,2024,679156,"pennw002","penniwa01",NA
+"714","Tyler","Matzek","Tyler Alexander","","",1990,2014,554431,"matzt001","matzety01",10058
+"715","Luke","Jackson","Luke","","",NA,NA,NA,"","",NA
+"716","Luke","Jackson","Luke","","",NA,NA,NA,"","",NA
+"717","Luke","Jackson","Luke Ray","","",1991,2015,592426,"jackl001","jackslu01",11752
+"718","Luke","Jackson","Luke","","",1996,NA,NA,"","",NA
+"719","Luke","Jackson","Luke Emery","","",2004,NA,703683,"","",NA
+"720","Luke","Jackson","Luke","","",NA,NA,NA,"","",NA
+"721","Luke","Jackson","Luke","","",NA,NA,NA,"","",NA
+"722","Luke","Jackson","Luke","","",NA,NA,NA,"","",NA
+"723","Alex","Clemmey","Alexander","","",2005,NA,806046,"","",NA
+"724","Quinn","Priester","Charles Quinn","","",2000,2023,682990,"prieq001","priesqu01",25977
+"725","Ricky","Vanasco","Ricky","","",1998,2024,676568,"vanar001","vanasri01",NA
+"726","Yusei","Kikuchi","Yusei","","",1991,2019,579328,"kikuy001","kikucyu01",20633
+"727","Jake","Bloss","John","","",2001,2024,814005,"blosj001","blossja01",33168
+"728","Jalen","Beeks","Jalen Christopher","","",1993,2018,656222,"beekj001","beeksja02",17192
+"729","Luis","Peralta","Luis David","","",2001,2024,678821,"peral001","perallu01",NA
+"730","Luis","Peralta","Luis U.","","",1958,NA,NA,"","",NA
+"731","Luis","Peralta","Luis Antonio","","",NA,NA,NA,"","",NA
+"732","Luis","Peralta","Luis","","",1943,NA,NA,"","",NA
+"733","Ryan","Yarbrough","Ryan Christian","","",1991,2018,642232,"yarbr001","yarbrry01",16502
+"734","Tyler","Zuber","John Tyler","","",1995,2020,676604,"zubet001","zuberty01",20379
+"735","Paul","Gervase","Paul Thomas","","",2000,NA,801434,"","",NA
+"736","Martín","Pérez","Martín","","",1991,2012,527048,"perem004","perezma02",6902
+"737","Ronaldys","Jimenez","Ronaldys","","",2005,NA,815858,"","",NA
+"738","Josh","Walker","Josh","","",NA,NA,NA,"","",NA
+"739","Josh","Walker","Josh","","",NA,NA,NA,"","",NA
+"740","Josh","Walker","Josh","","",NA,NA,NA,"","",NA
+"741","Josh","Walker","Josh","","",NA,NA,NA,"","",NA
+"742","Josh","Walker","Josh","","",NA,NA,NA,"","",NA
+"743","Josh","Walker","Joshua Graham","","",1976,NA,460242,"","",NA
+"744","Josh","Walker","Joshua Todd","","",1994,2023,677020,"walkj004","walkejo03",23617
+"745","Josh","Walker","Josh","","",1996,NA,NA,"","",NA
+"746","Josh","Walker","Joshua Lamar","","",1991,NA,642182,"","",NA
+"747","Nicolas","Carreno","Nicolas Gabriel","","",2006,NA,807993,"","",NA
+"748","Paul","Blackburn","Paul Cady","","",1993,2017,621112,"blacp001","blackpa01",14739
+"749","Kade","Morris","Kade Tanner","","",2002,NA,695034,"","",NA
+"750","Kade","Morris","Kade","","",1999,NA,689972,"","",NA
+"751","Kaden","Morris","Kaden Turner","","",2005,NA,825341,"","",NA
+"752","Will","Schomberg","David William","","",2001,NA,801696,"","",NA
+"753","Lucas","Sims","Lucas Sundberg","","",1994,2017,608371,"simsl001","simslu01",13470
+"754","Ovis","Portes","Ovis","","",2004,NA,802086,"","",NA
+"755","Frankie","Montas","Francelis","","",1993,2015,593423,"montf001","montafr02",14309
+"756","Jakob","Junis","Jakob Benjamin Lee","","",1992,2017,596001,"junij001","junisja01",13619
+"757","Mike","Baumann","Michael Thomas","","",1995,2021,657508,"baumm001","baumami01",20206
+"758","Caleb","Ferguson","Caleb Paul","","",1996,2018,657571,"fergc001","ferguca01",19349
+"759","Kelly","Austin","Richard Kelly","","",2000,NA,675502,"","",NA
+"760","Patrick","O'Reilly","Patrick","","",NA,NA,NA,"","",NA
+"761","Patrick","Reilly","Patrick Michael","","",2001,NA,694345,"","",NA
+"762","Patrick","Reilly","Patrick","","",NA,NA,NA,"","",NA
+"763","Andrew","Chafin","Andrew Gregory","","",1990,2014,605177,"chafa001","chafian01",12988
+"764","Joseph","Montalvo","Joseph Javier","","",2002,NA,702477,"","",NA
+"765","Chase","Lee","Chase Alexander","","",1998,NA,695445,"","",NA
+"766","Trevor","Rogers","Trevor","","",NA,NA,NA,"","",NA
+"767","Trevor","Rogers","Trevor","","",1998,NA,NA,"","",NA
+"768","Trevor","Rogers","Trevor J'Daniel","","",1997,2020,669432,"roget003","rogertr01",22286
+"769","Lucas","Erceg","Lucas Stijepan","","",1995,2023,668674,"ercel001","erceglu01",19360
+"770","Will","Kleinhenz","Will","","",2000,NA,NA,"","",NA
+"771","Will","Klein","William Boone","","",1999,2024,694361,"kleiw001","kleinwi01",NA
+"772","William","Klein","William","","",NA,NA,NA,"","",NA
+"773","Will","Klein","Will","","",NA,NA,NA,"","",NA
+"774","Mason","Barnett","Mason","","",2001,NA,804794,"","",NA
+"775","Mason","Barnett","Mason McLendon","","",2000,NA,686930,"","",NA
+"776","Luis Alberto","García","Luis Alberto","","",NA,NA,NA,"","",NA
+"777","Luis","García","Luis","","",NA,NA,NA,"","",NA
+"778","Luis","García","Luis","","",NA,NA,NA,"","",NA
+"779","Luis","García","Luis Enrique","","",NA,NA,NA,"","",NA
+"780","Luis","García","Luis Carlos","","",1975,2002,408202,"garcl003","garcilu02",140
+"781","Luis","García","Luis Victoriano","","",2000,2020,671277,"garcl006","garcilu04",20391
+"782","Luis","García","Luis","","",2002,NA,NA,"","",NA
+"783","Luis","García","Luis Heibardo","","",1996,2020,677651,"garcl007","garcilu05",23735
+"784","Luis","García","Luis Amado","","",1987,2013,472610,"garcl005","garcilu03",6984
+"785","Luis","García","Luis","","",NA,NA,NA,"","",NA
+"786","Luis","García","Luis Alberto","","",2002,NA,693760,"","",NA
+"787","Ryan","Zeferjahn","Ryan Joseph","","",1998,2024,666171,"zefer001","zeferry01",NA
+"788","Yeferson","Vargas","Yeferson","","",2004,NA,814279,"","",NA
+"789","Erick","Silva","Erick Jumar","","",1982,NA,466907,"","",NA
+"790","Eric","Silva","Eric Anthony","","",2002,NA,696150,"","",NA
+"791","Jack","O'Flaherty","Jack","","",NA,NA,NA,"","",NA
+"792","Jack","Flaherty","Jack","","",NA,NA,NA,"","",NA
+"793","Jack","Flaherty","John","","",1993,NA,NA,"","",NA
+"794","Jack","Flaherty","Jack Rafe","","",1995,2017,656427,"flahj002","flaheja01",17479
+"795","Gregory","Soto","Gregory","","",1995,2019,642397,"sotog003","sotogr01",19677
+"796","Seth","Johnson","Seth","","",NA,NA,NA,"","",NA
+"797","Seth","Johnson","Seth","","",2001,NA,NA,"","",NA
+"798","Seth","Johnson","Seth","","",1994,NA,NA,"","",NA
+"799","Seth","Johnson","Seth","","",NA,NA,NA,"","",NA
+"800","Seth","Johnson","Seth","","",NA,NA,NA,"","",NA
+"801","Seth","Johnson","Seth William","","",1998,2024,686751,"johns003","johnsse01",NA
+"802","Seth","Johnson","Seth","","",NA,NA,NA,"","",NA
+"803","Seth","Johnson","Seth F.","Jr.","",1925,NA,NA,"","",NA
+"804","Seth","Johnson","Seth Allen","","",1982,NA,457876,"","",NA
+"805","Seth","Johnson","Seth","","",1980,NA,499866,"","",NA
+"806","Moisés","Chace","Moisés Alejandro","","",2003,NA,691330,"","",NA
+"807","Jun-Seok","Shim","Jun-Seok","","",2004,NA,807149,"","",NA
+"808","Tanner","Scott","Tanner Alexander","","",1994,2017,656945,"scott003","scottta01",17586
+"809","Bryan","Hoeing","Bryan Jerome","","",1996,2022,663773,"hoeib001","hoeinbr01",26304
+"810","Adam","Mazur","Adam McKinnlee","","",2001,2024,800049,"mazua001","mazurad01",31900
+"811","Robby","Snelling","Robert Matthew","","",2003,NA,702281,"","",NA
+"812","Jarold","Rosado","Jarold Jose","","",2002,NA,695316,"","",NA
+"813","Dylan","Floro","Dylan Lee","","",1990,2016,571670,"flord002","florody01",13394
+"814","Alex","Cobb","Alexander Miller","","",1987,2011,502171,"cobba001","cobbal01",6562
+"815","Jacob","Bresnahan","Jacob Daniel Lee","","",2005,NA,815298,"","",NA
+"816","Mark","Leiter","Mark Edward","","",1963,1990,117653,"leitm001","leitema01",1007501
+"817","Mark","Leiter","Mark Edward","Jr.","",1991,2017,643410,"leitm002","leitema02",15551
+"818","Jack","Neely","Jack Preston","","",2000,2024,680891,"neelj001","neelyja01",NA
+"819","Tanner","Banks","Tanner Pierce","","",1991,2022,621383,"bankt001","banksta01",16990
+"820","Trey","McGough","Trey Scott","","",1998,NA,690736,"","",NA
+"821","Trevor","Richards","Trevor Michael","","",1993,2018,670950,"richt001","richatr01",19309
+"822","Shawn","Armstrong","Shawn Michael","","",1990,2015,542888,"armss001","armstsh01",12857
+"823","Enyel","De Los Santos","Enyel","","",1995,2018,660853,"deloe001","delosen01",18403
+"824","Thomas","Balboni","Thomas Francis","","",2000,NA,693647,"","",NA
