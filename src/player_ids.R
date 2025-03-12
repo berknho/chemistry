@@ -100,4 +100,3 @@ players_cleaned <- transaction_ids %>%
 
 # write to csv if necessary
 # write.csv(players_cleaned, "data/players/players_cleaned.csv", row.names = FALSE)
-
